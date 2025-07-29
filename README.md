@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-All my projects can be found on my organization page: [Zion Software](https://github.com/orgs/databroaker/repositories)
+All my projects can be found on my organization page: [DB Software](https://github.com/orgs/databroaker/repositories)
